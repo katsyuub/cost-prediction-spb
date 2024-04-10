@@ -1,0 +1,8 @@
+altair
+numpy
+pandas
+pydeck
+streamlit
+seaborn
+joblib
+scikit-learn
